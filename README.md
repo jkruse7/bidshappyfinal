@@ -9,4 +9,4 @@ Dataset 2: https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh/
 Dataset 2 Description: This dataset records the number of cars counted in each neighborhood of Pittsburgh.
 Dataset 3: https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
 Dataset 3 Description: This dataset includes descriptions of thousands of arrests around Pittsburgh, including the neighborhoods in which they occurred.
-Description: It's a beautiful day in the neighborhood! This project will determine Pittsburgh's Happiest Neighborhood through three metrics: parks, traffic, and crime. The neighborhood with the highest number of parks per square mile, lowest traffic per square mile, and lowest crime per total population will be the "Happiest Neighborhood" in Pittsburgh.
+Description: It's a beautiful day in the neighborhood! This project will determine Pittsburgh's Happiest Neighborhood through three metrics: parks, traffic, and crime. The neighborhood with the highest number of parks per neighborhood, fewest cars per neighborhood, and lowest crime per total population will be the "Happiest Neighborhood" in Pittsburgh.
